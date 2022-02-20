@@ -1,6 +1,17 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "t2",
+    "text": "t2",
+    "id": "9fe41112-92db-4f8d-acfa-3628e27da999"
+  },
+  {
+    "title": "orlando",
+    "text": "orlando",
+    "id": "ae3561b5-cbf4-440d-b4f3-f1b7f84c03a4"
+  },
+  {
+    "title": "Add DELETE Route",
+    "text": "for the bonus of challenge 3 add a route to delete notes from the app",
+    "id": "87496efe-89c7-4c87-a01c-b805b234b99d"
+  }
 ]
